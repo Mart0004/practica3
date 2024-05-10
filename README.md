@@ -69,10 +69,10 @@ Para lograr esto, se utilizan las librerías WiFi.h y WebServer.h, las cuales pr
 Ejemplo de salida por terminal que indica la conexión exitosa a la red Wi-Fi y la dirección IP asignada al ESP32:
 ```
 Try Connecting to 
-TCL10_SE
+Xiaomi_11T_Pro
 ...........................
 WiFi connected successfully
-Got IP: 192.168.1.109
+Got IP: 192.168.1.100
 HTTP server started
 ````
 
